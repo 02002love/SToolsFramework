@@ -1,0 +1,6 @@
+framework module SToolsFramework {
+  umbrella header "SToolsFramework.h"
+
+  export *
+  module * { export * }
+}
